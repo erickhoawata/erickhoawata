@@ -46,4 +46,4 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
-[!Snake animation](https://github.com/erickhoawata/erickhoawata)
+![snake gif](https://github.com/erickhoawata/erickhoawata/blob/output/github-contribution-grid-snake.svg)
