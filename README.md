@@ -12,14 +12,14 @@
 ---
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mateus-ferreira-madeira-b66a27270/">
+  <a href="https://www.linkedin.com/in/%C3%A9rick-awata/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	  </a>
-  <a href= "https://www.instagram.com/_mafemad/">
+  <a href= "https://www.instagram.com/erick.awata/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 	</a>
-  <a href='https://twitter.com/mafemad_'>
-	<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href='https://www.behance.net/erickawata'>
+	<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Twitter Badge"/>
 	</a>
 </div>
 
@@ -27,23 +27,27 @@
 
 ### 🛠 Languages and Tools :
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40"       height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="trello" alt="trello"/>&nbsp;
+  <br><br>
+   <img src="https://aleen42.github.io/badges/src/photoshop.svg" title="photoshop" alt="photoshop"/>&nbsp;
+   <img src="https://aleen42.github.io/badges/src/illustrator.svg" title="illustrator" alt="illustrator"/>&nbsp;
 </div>
 
 ---
 
 ### 📊 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erickhoawata&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhoawata&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" display="block">
+  <div align="center">
+  <a href="https://github.com/erickhoawata">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickhoawata&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickhoawata&layout=compact&langs_count=7&theme=dark"/>
+</div>
+</br>
 
----									
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-![snake gif](https://github.com/erickhoawata/erickhoawata/blob/output/github-contribution-grid-snake.svg)
